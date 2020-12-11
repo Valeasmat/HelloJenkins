@@ -81,5 +81,6 @@
         </configuration>
       </plugin>
     </plugins>
+    <finalName>primer-proyecto-jenkins</finalName>
   </build>
 </project>
